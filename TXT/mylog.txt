@@ -12,3 +12,17 @@ ZCZC W00 20 L13 Assignment #03
 ZCZC W00 10 L14 Assignment #04
 ZCZC W00 5 L16 Assignment #06
 ZCZC W00 90 L15 Assignment #05
+ZCZC W00 3 L05 Quiz related including studying
+ZCZC W01 100 L02 Zoom meetings related
+ZCZC W01 100 L02 Zoom meetings related
+ZCZC W01 3 L05 Quiz related including studying
+ZCZC W01 30 L03 Github and git related, including commit, push, pull
+ZCZC W01 20 L08 OS Chat related (Line) with Friend
+ZCZC W01 90 L26 GnuPG, key-gen, encrypt/decrypt
+ZCZC W01 90 L27 SSH, key-gen, tunelling, putty, winscp
+ZCZC W01 60 L31 VirtualBox: install GNU/Linux, etc
+ZCZC W01 10 L40 TXT/ related in general
+ZCZC W01 20 L41 TXT/mylog.txt related
+ZCZC W01 30 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W01 30 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W01 270 L11 Assignment #01
