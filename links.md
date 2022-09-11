@@ -1,20 +1,22 @@
 ---
 permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By alekyoanda</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[GITHUB](https://github.com/alekyoanda/os222)
+[GITHUB]({{ site.githublink }})
 <br>
 <hr>
 
 # LINKS
 
+1. [Linux Command Documentation](https://docs.rockylinux.org/books/admin_guide/03-commands/)<br>
+This link is very helpful for me when I use linux as operating system on virtual machine
 
 <br>
 <hr>
-&copy; 2022 --- alekyoanda --- Version: 11-sept-2022.
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
 <br>
