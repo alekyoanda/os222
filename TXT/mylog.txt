@@ -29,3 +29,4 @@ ZCZC W01 270 L11 Assignment #01
 ZCZC W01 45 L04 GitHub Pages related
 ZCZC W01 45 L13 Assignment #03
 ZCZC W01 20 L14 Assignment #04
+ZCZC W01 60 L12 Assignment #02
