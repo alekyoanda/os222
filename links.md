@@ -18,7 +18,7 @@ This link is very helpful for me when I use linux as operating system on virtual
 2. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br>
 This link helps me to write markdown file using markdown syntax
 
-2. [Shell Command Explanation](https://explainshell.com/explain?cmd=bash)<br>
+3. [Shell Command Explanation](https://explainshell.com/explain?cmd=bash)<br>
 This link helps me because its explain shell command that I search
 <br>
 <hr>
