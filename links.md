@@ -20,7 +20,6 @@ This link helps me to write markdown file using markdown syntax
 
 3. [Shell Command Explanation](https://explainshell.com/explain?cmd=bash)<br>
 This link helps me because its explain shell command that I search
-<br>
 
 4. [Logical And Physical Address In Operating System](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system)<br>
 This link helps me to understand difference between logical and physical address in operating system.
@@ -33,6 +32,12 @@ This link helps me to understand demand paging in such a simple words.
 
 7. [Process and Thread](https://www.backblaze.com/blog/whats-the-diff-programs-processes-and-threads)<br>
 This link helps me to understand the difference between process and thread with comprehensive explanation.
+
+8. [Deadlock In Operating System](https://www.scaler.com/topics/operating-system/deadlock-in-os)<br>
+This link helps me to understand what is deadlock in operating system in easy way.
+
+9. [OS CPU Scheduling](https://www.javatpoint.com/os-cpu-scheduling)<br>
+This link helps me to understand what is cpu scheduling in operating system with comprehensive explanation.
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
