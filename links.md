@@ -33,6 +33,9 @@ This link helps me to understand demand paging in such a simple words.
 
 7. [Process and Thread](https://www.backblaze.com/blog/whats-the-diff-programs-processes-and-threads)<br>
 This link helps me to understand the difference between process and thread with comprehensive explanation.
+
+8. [Deadlock In Operating System](https://www.scaler.com/topics/operating-system/deadlock-in-os)<br>
+This link helps me to understand what is deadlock in operating system in easy way.
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
