@@ -109,3 +109,14 @@ ZCZC W09 60 L11 Assignment #01
 ZCZC W09 10 L41 TXT/mylog.txt related
 ZCZC W09 15 L04 Github Pages related
 ZCZC W09 5 L05 Quiz related including studying
+ZCZC W10 100 L02 Lecture session related
+ZCZC W10 100 L02 Lecture session related
+ZCZC W10 20 L03 Github and git related, including commit, push, pull
+ZCZC W10 5 L12 Assignment #02
+ZCZC W10 600 L13 Assignment #03
+ZCZC W10 30 L14 Assignment #04
+ZCZC W10 90 L11 Assignment #01
+ZCZC W10 15 L41 TXT/mylog.txt related
+ZCZC W10 20 L04 Github Pages related
+ZCZC W10 5 L05 Quiz related including studying
+ZCZC W10 3 L05 Quiz related including studying

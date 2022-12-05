@@ -41,6 +41,9 @@ This link helps me to understand what is cpu scheduling in operating system with
 
 10. [Understanding and Using Systemd](https://www.linux.com/training-tutorials/understanding-and-using-systemd)<br>
 This link helps me to understand systemd in easy way.
+
+11. [Disk Scheduling Algorithms](https://www.geeksforgeeks.org/disk-scheduling-algorithms)<br>
+This links helps me to understand disk scheduling algorithms.
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
